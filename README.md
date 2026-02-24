@@ -1,6 +1,6 @@
 # Hi, I'm Odisseas. 👋
 
-I focus on building things that help people. Always trying to keep things **simple, practical, and honest.** I don't like over-complicating projects with "fancy" words or unnecessary tech.
+I like building things that help people. Always trying to keep things **simple, practical, and honest.** I don't like over-complicating projects with "fancy" words or unnecessary tech.
 
 ---
 
